@@ -1,0 +1,5 @@
+Initial Balance : 50000
+Deposited Amount : 55000
+Deposited Amount : 55800
+Withdrawal Amount : 54800
+Deposited Amount : 55300
